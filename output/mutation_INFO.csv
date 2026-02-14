@@ -1,0 +1,66 @@
+"Drug","input_variant","gene_name","locus_tag","product_name","region_type","strand","var_type","position","position_start","position_end"
+"EMB","rs1473246","rrs","Rvnr01","16S ribosomal RNA","rRNA","+","position",1401,1473246,1473246
+"EMB","rs2155168","katG","Rv1908c","catalase-peroxidase","CDS_coding","-","position",944,2155168,2155168
+"EMB","rs4247429","embB","Rv3795","arabinosyltransferase B","CDS_coding","+","position",916,4247429,4247429
+"EMB","rs4247431","embB","Rv3795","arabinosyltransferase B","CDS_coding","+","position",918,4247431,4247431
+"EMB","rs761155","rpoB","Rv0667","DNA-directed RNA polymerase subunit beta","CDS_coding","+","position",1349,761155,761155
+"EMB","rs1673425",NA,NA,NA,"intergenic",NA,"position",NA,1673425,1673425
+"EMB","rs4248003","embB","Rv3795","arabinosyltransferase B","CDS_coding","+","position",1490,4248003,4248003
+"EMB","rs761139","rpoB","Rv0667","DNA-directed RNA polymerase subunit beta","CDS_coding","+","position",1333,761139,761139
+"INH","rs1673425",NA,NA,NA,"intergenic",NA,"position",NA,1673425,1673425
+"INH","rs2155168","katG","Rv1908c","catalase-peroxidase","CDS_coding","-","position",944,2155168,2155168
+"INH","rs2867756","lppB","Rv2544","lipoprotein LppB","CDS_coding","+","position",633,2867756,2867756
+"INH","rs761139","rpoB","Rv0667","DNA-directed RNA polymerase subunit beta","CDS_coding","+","position",1333,761139,761139
+"INH","rs761155","rpoB","Rv0667","DNA-directed RNA polymerase subunit beta","CDS_coding","+","position",1349,761155,761155
+"INH","rs781687","rpsL","Rv0682","30S ribosomal protein S12","CDS_coding","+","position",128,781687,781687
+"INH","rs2715344",NA,NA,NA,"intergenic",NA,"position",NA,2715344,2715344
+"INH","rs781822","rpsL","Rv0682","30S ribosomal protein S12","CDS_coding","+","position",263,781822,781822
+"INH","rs1472359","rrs","Rvnr01","16S ribosomal RNA","rRNA","+","position",514,1472359,1472359
+"INH","rs1473246","rrs","Rvnr01","16S ribosomal RNA","rRNA","+","position",1401,1473246,1473246
+"INH","rs1960409","Rv1733c","Rv1733c","transmembrane protein","CDS_coding","-","position",79,1960409,1960409
+"INH","rs2634282",NA,NA,NA,"intergenic",NA,"position",NA,2634282,2634282
+"INH","rs4248003","embB","Rv3795","arabinosyltransferase B","CDS_coding","+","position",1490,4248003,4248003
+"PZA","rs2155168","katG","Rv1908c","catalase-peroxidase","CDS_coding","-","position",944,2155168,2155168
+"PZA","rs761155","rpoB","Rv0667","DNA-directed RNA polymerase subunit beta","CDS_coding","+","position",1349,761155,761155
+"PZA","rs1993808","Rv1760","Rv1760","diacylglycerol acyltransferase","CDS_coding","+","position",656,1993808,1993808
+"PZA","rs2986827","Rv2670c","Rv2670c","hypothetical protein","CDS_5prime","-","position",14,2986827,2986827
+"PZA","rs4243221",NA,NA,NA,"intergenic",NA,"position",NA,4243221,4243221
+"PZA","rs761139","rpoB","Rv0667","DNA-directed RNA polymerase subunit beta","CDS_coding","+","position",1333,761139,761139
+"RIF","rs1673425",NA,NA,NA,"intergenic",NA,"position",NA,1673425,1673425
+"RIF","rs2155168","katG","Rv1908c","catalase-peroxidase","CDS_coding","-","position",944,2155168,2155168
+"RIF","rs761139","rpoB","Rv0667","DNA-directed RNA polymerase subunit beta","CDS_coding","+","position",1333,761139,761139
+"RIF","rs761155","rpoB","Rv0667","DNA-directed RNA polymerase subunit beta","CDS_coding","+","position",1349,761155,761155
+"RIF","rs781687","rpsL","Rv0682","30S ribosomal protein S12","CDS_coding","+","position",128,781687,781687
+"RIF","rs1473246","rrs","Rvnr01","16S ribosomal RNA","rRNA","+","position",1401,1473246,1473246
+"RIF","rs2715344",NA,NA,NA,"intergenic",NA,"position",NA,2715344,2715344
+"RIF","rs2986827","Rv2670c","Rv2670c","hypothetical protein","CDS_5prime","-","position",14,2986827,2986827
+"RIF","rs781822","rpsL","Rv0682","30S ribosomal protein S12","CDS_coding","+","position",263,781822,781822
+"RIF","rs764817","rpoC","Rv0668","DNA-directed RNA polymerase subunit beta'","CDS_coding","+","position",1448,764817,764817
+"SM","rs1673425",NA,NA,NA,"intergenic",NA,"position",NA,1673425,1673425
+"SM","rs2155168","katG","Rv1908c","catalase-peroxidase","CDS_coding","-","position",944,2155168,2155168
+"SM","rs761155","rpoB","Rv0667","DNA-directed RNA polymerase subunit beta","CDS_coding","+","position",1349,761155,761155
+"SM","rs781687","rpsL","Rv0682","30S ribosomal protein S12","CDS_coding","+","position",128,781687,781687
+"SM","rs1472359","rrs","Rvnr01","16S ribosomal RNA","rRNA","+","position",514,1472359,1472359
+"SM","rs2867756","lppB","Rv2544","lipoprotein LppB","CDS_coding","+","position",633,2867756,2867756
+"SM","rs3934734","PE_PGRS54","Rv3508","PE-PGRS family protein PE_PGRS54","CDS_coding","+","position",3730,3934734,3934734
+"SM","rs781822","rpsL","Rv0682","30S ribosomal protein S12","CDS_coding","+","position",263,781822,781822
+"AMK","rs1473246","rrs","Rvnr01","16S ribosomal RNA","rRNA","+","position",1401,1473246,1473246
+"CM","rs1473246","rrs","Rvnr01","16S ribosomal RNA","rRNA","+","position",1401,1473246,1473246
+"ETO","rs761155","rpoB","Rv0667","DNA-directed RNA polymerase subunit beta","CDS_coding","+","position",1349,761155,761155
+"KM","rs1473246","rrs","Rvnr01","16S ribosomal RNA","rRNA","+","position",1401,1473246,1473246
+"KM","rs2155168","katG","Rv1908c","catalase-peroxidase","CDS_coding","-","position",944,2155168,2155168
+"KM","rs70291","Rv0064","Rv0064","transmembrane protein","CDS_coding","+","position",1672,70291,70291
+"KM","rs2986827","Rv2670c","Rv2670c","hypothetical protein","CDS_5prime","-","position",14,2986827,2986827
+"KM","rs96899",NA,NA,NA,"intergenic",NA,"position",NA,96899,96899
+"LFX","rs7570","gyrA","Rv0006","DNA gyrase subunit A","CDS_coding","+","position",269,7570,7570
+"LFX","rs7582","gyrA","Rv0006","DNA gyrase subunit A","CDS_coding","+","position",281,7582,7582
+"LFX","rs1473246","rrs","Rvnr01","16S ribosomal RNA","rRNA","+","position",1401,1473246,1473246
+"LFX","rs2155168","katG","Rv1908c","catalase-peroxidase","CDS_coding","-","position",944,2155168,2155168
+"MFX","rs7582","gyrA","Rv0006","DNA gyrase subunit A","CDS_coding","+","position",281,7582,7582
+"OFX","rs1473246","rrs","Rvnr01","16S ribosomal RNA","rRNA","+","position",1401,1473246,1473246
+"OFX","rs2155168","katG","Rv1908c","catalase-peroxidase","CDS_coding","-","position",944,2155168,2155168
+"OFX","rs7570","gyrA","Rv0006","DNA gyrase subunit A","CDS_coding","+","position",269,7570,7570
+"OFX","rs7582","gyrA","Rv0006","DNA gyrase subunit A","CDS_coding","+","position",281,7582,7582
+"PAS","rs1188517","PE_PGRS19","Rv1067c","PE-PGRS family protein PE_PGRS19","CDS_coding","-","position",1908,1188517,1188517
+"PAS","rs2986827","Rv2670c","Rv2670c","hypothetical protein","CDS_5prime","-","position",14,2986827,2986827
+"PAS","rs3735813","PPE54","Rv3343c","PPE family protein PPE54","CDS_coding","-","position",1123,3735813,3735813

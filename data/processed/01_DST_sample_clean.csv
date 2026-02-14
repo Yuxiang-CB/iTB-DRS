@@ -1,0 +1,4 @@
+sra_id,condition_id,ethambutol,isoniazid,pyrazinamide,rifampicin,streptomycin,amikacin,capreomycin,cycloserine,ethionamide,kanamycin,levofloxacin,linezolid,moxifloxacin,ofloxacin,p_aminosalicylic_acid
+SRR10303276,5154923e-ad07-439d-9738-c51886df5fd8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,S,NA,S,S,NA
+SRR10303277,83144ab5-372f-444a-bad2-41c8f7c7cfe3,NA,NA,NA,NA,NA,NA,S,NA,NA,NA,S,NA,S,S,NA
+SRR10303278,de25ec01-9f50-48a3-b986-8447e1291093,NA,NA,NA,NA,NA,S,S,NA,NA,R,S,NA,S,S,NA
