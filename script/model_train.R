@@ -1,6 +1,6 @@
 #filename: model_train.R
 
-setwd("~/bioinformatics/ML_mtb/")
+setwd("~/bioinformatics/iTBDRS/")
 options(expressions = 500000)
 drugs <- c("EMB", "INH","PZA","RIF","SM", "AMK","CM",
            "ETO","KM","LFX","MFX","OFX","PAS")
