@@ -1,4 +1,4 @@
-setwd("~/bioinformatics/ML_mtb/")
+setwd("~/bioinformatics/iTBDRS/")
 
 drugs <- c("EMB", "INH","PZA","RIF","SM", "AMK","CM",
            "ETO","KM","LFX","MFX","OFX","PAS")
