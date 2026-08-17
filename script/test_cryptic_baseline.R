@@ -3,7 +3,7 @@ library(parallel)
 library(randomForest)
 library(vcfR)
 
-setwd("~/bioinformatics/ML_mtb/")
+setwd("~/bioinformatics/iTBDRS/")
 
 
 dst_crypritc_HIGH <- read.csv(file = "./data/raw/cryptic_phy_HIGH.csv")
