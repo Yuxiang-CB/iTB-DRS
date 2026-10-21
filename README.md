@@ -145,4 +145,5 @@ If you use this tool or the iTB-DRS framework in your research, please cite our 
 
 ## 📄 License
 
-This project is licensed under the MIT License. Please see the LICENSE file for details.
+This project is licensed under the **PolyForm Noncommercial License 1.0.0**. 
+See the [LICENSE](LICENSE) file for details.
