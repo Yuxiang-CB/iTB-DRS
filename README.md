@@ -128,16 +128,15 @@ If you use this tool or the iTB-DRS framework in your research, please cite our 
 
 **BibTeX Format:**
 ```bibtex
-@article{chen2023itbdrs,
-  title={iTB-DRS: a multi-stage feature selection framework to identify Mycobacterium tuberculosis drug-resistance using single-nucleotide polymorphisms},
-  author={Chen, Yu-Xiang and Andrianov, Alexander M and Gabrielian, Andrei and Rosenthal, Alex and Tuzikov, Alexander V},
-  journal={Microbiology Spectrum},
-  volume={[Volume]},
-  number={[Issue]},
-  pages={[Pages]},
-  year={[Year]},
-  publisher={American Society for Microbiology},
-  doi={[Insert DOI]}
+@article{chenYYYYitbdrs,
+  author  = {Chen, Yu-Xiang and Andrianov, Alexander M. and Gabrielian, Andrei and Rosenthal, Alex and Tuzikov, Alexander V.},
+  title   = {iTB-DRS: A multi-stage feature selection framework to identify {\textit{Mycobacterium tuberculosis}} drug-resistance using single-nucleotide polymorphisms},
+  journal = {Microbiology Spectrum},
+  year    = {YYYY},
+  volume  = {Volume},
+  number  = {Issue},
+  pages   = {Pages},
+  doi     = {10.1128/spectrum.XXXXX}
 }
 ```
 
