@@ -124,7 +124,7 @@ The output is a CSV file with one row per sample. Each sample will have columns 
 If you use this tool or the iTB-DRS framework in your research, please cite our paper:
 
 **APA Format:**
-> Chen, Y. X., Andrianov, A. M., Gabrielian, A., Rosenthal, A., & Tuzikov, A. V. (Year). iTB-DRS: a multi-stage feature selection framework to identify Mycobacterium tuberculosis drug-resistance using single-nucleotide polymorphisms. *Microbiology Spectrum*, [Volume]([Issue]), [Pages]. https://doi.org/[Insert DOI]
+> Chen, Y. X., Andrianov, A. M., Gabrielian, A., Rosenthal, A., & Tuzikov, A. V. (Year). iTB-DRS: a multi-stage feature selection framework to identify Mycobacterium tuberculosis drug-resistance using single-nucleotide polymorphisms. *Microbiology Spectrum*, [Volume]([Issue]), [Pages]. https://doi.org/10.1128/spectrum.00849-26
 
 **BibTeX Format:**
 ```bibtex
@@ -136,7 +136,7 @@ If you use this tool or the iTB-DRS framework in your research, please cite our 
   volume  = {Volume},
   number  = {Issue},
   pages   = {Pages},
-  doi     = {10.1128/spectrum.XXXXX}
+  doi     = {10.1128/spectrum.00849-26}
 }
 ```
 
